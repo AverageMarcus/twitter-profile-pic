@@ -1,8 +1,8 @@
-# [Twitter-Profile-Pic](https://github.com/AverageMarcus/TwitterProfilePic)
+![twitter-profile-pic](logo.png)
 
 > Get a twitter profile pic using a given handle
 
-> Live at: [https://twitter-profile-pic.marcusnoble.co.uk/](https://twitter-profile-pic.marcusnoble.co.uk/)
+Available at https://twitter-profile-pic.cluster.fun/
 
 ## Features
 
@@ -14,17 +14,17 @@
 
 Code:
 ```
-<img src="https://twitter-profile-pic.jsoxford.com/marcus_noble_?size=normal" />
+<img src="https://twitter-profile-pic.cluster.fun/marcus_noble_?size=normal" />
 ```
 Result:
 
-![](https://twitter-profile-pic.jsoxford.com/marcus_noble_?size=normal)
+![](https://twitter-profile-pic.cluster.fun/marcus_noble_?size=normal)
 
 ## Example: JSON
 cURL Request:
 ```
 curl -X GET \
-  https://twitter-profile-pic.marcusnoble.co.uk/marcus_noble_ \
+  https://twitter-profile-pic.cluster.fun/marcus_noble_ \
   -H 'cache-control: no-cache' \
   -H 'content-type: application/json' \
   -H 'postman-token: 680d968e-9b13-85c8-f7d5-9b48a333702f'
